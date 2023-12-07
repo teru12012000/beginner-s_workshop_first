@@ -1,0 +1,24 @@
+.containar {
+    margin: 20px;
+}
+.selectBox {
+    display: flex;
+    margin-top: 20px;
+}
+.btn {
+    width: 120px;
+    height: 80px;
+    font-size: 30px;
+    margin-right: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+.btn:hover {
+    background-color: aqua;
+    transition: 0.6s;
+}
+
+.resultBox {
+    margin-top: 20px;
+}
